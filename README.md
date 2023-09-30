@@ -14,7 +14,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=fc0303)
 ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
