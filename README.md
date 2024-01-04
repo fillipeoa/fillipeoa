@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Fillipe, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<!--<h1>👋 &nbsp;Olá, eu sou o Fillipe, um desenvolvedor full stack apaixonado pelo que faz!</h1>-->
 <p align="center">
 <a href="https://www.linkedin.com/in/fillipe-almeida"><img src="https://img.shields.io/badge/-Fillipe%20Almeida-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:fillipeoa1234@gmail.com"><img src="https://img.shields.io/badge/-fillipeoa1234@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
